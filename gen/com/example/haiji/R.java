@@ -21,11 +21,18 @@ public final class R {
         public static final int activity_vertical_margin=0x7f050001;
     }
     public static final class drawable {
-        public static final int ic_launcher=0x7f020000;
+        public static final int bg=0x7f020000;
+        public static final int ic_launcher=0x7f020001;
     }
     public static final class id {
-        public static final int action_settings=0x7f090009;
+        public static final int action_settings=0x7f09000f;
         public static final int button1=0x7f090001;
+        public static final int button10=0x7f090009;
+        public static final int button11=0x7f09000a;
+        public static final int button12=0x7f09000b;
+        public static final int button13=0x7f09000c;
+        public static final int button14=0x7f09000d;
+        public static final int button15=0x7f09000e;
         public static final int button2=0x7f090000;
         public static final int button3=0x7f090002;
         public static final int button4=0x7f090004;
@@ -42,12 +49,18 @@ public final class R {
         public static final int main=0x7f080000;
     }
     public static final class raw {
-        public static final int himawari=0x7f040000;
-        public static final int oreyamayakara=0x7f040001;
-        public static final int teinenpitte=0x7f040002;
-        public static final int tulip=0x7f040003;
-        public static final int yamaga=0x7f040004;
-        public static final int yamasennkou=0x7f040005;
+        public static final int butterfly=0x7f040000;
+        public static final int gakkou=0x7f040001;
+        public static final int himawari=0x7f040002;
+        public static final int oreyamayakara=0x7f040003;
+        public static final int peta=0x7f040004;
+        public static final int sausage=0x7f040005;
+        public static final int syugo=0x7f040006;
+        public static final int teinenpitte=0x7f040007;
+        public static final int tulip=0x7f040008;
+        public static final int tunjaku=0x7f040009;
+        public static final int yamaga=0x7f04000a;
+        public static final int yamasennkou=0x7f04000b;
     }
     public static final class string {
         public static final int action_settings=0x7f060001;
