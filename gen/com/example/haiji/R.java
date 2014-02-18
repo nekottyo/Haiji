@@ -55,12 +55,13 @@ public final class R {
         public static final int oreyamayakara=0x7f040003;
         public static final int peta=0x7f040004;
         public static final int sausage=0x7f040005;
-        public static final int syugo=0x7f040006;
-        public static final int teinenpitte=0x7f040007;
-        public static final int tulip=0x7f040008;
-        public static final int tunjaku=0x7f040009;
-        public static final int yamaga=0x7f04000a;
-        public static final int yamasennkou=0x7f04000b;
+        public static final int sebasuchan=0x7f040006;
+        public static final int syugo=0x7f040007;
+        public static final int teinenpitte=0x7f040008;
+        public static final int tulip=0x7f040009;
+        public static final int tunjaku=0x7f04000a;
+        public static final int yamaga=0x7f04000b;
+        public static final int yamasennkou=0x7f04000c;
     }
     public static final class string {
         public static final int action_settings=0x7f060001;

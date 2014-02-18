@@ -92,6 +92,7 @@ public class MainActivity extends Activity {
 		sound_id9 = sp9.load(this, R.raw.butterfly, 1);
 		sound_id10 = sp10.load(this, R.raw.sausage, 1);	
 		sound_id11 = sp11.load(this, R.raw.gakkou, 1);
+		sound_id12 = sp12.load(this, R.raw.sebasuchan, 1);
 		
 		button1.setOnClickListener(new View.OnClickListener() {
 			@Override
@@ -168,14 +169,23 @@ public class MainActivity extends Activity {
 			@Override
 			public void onClick(View v) {
 				// TODO Auto-generated method stub
-				sp9.play(sound_id10 , 1.0F, 1.0F, 0, 0, 1.0F);
+				sp10.play(sound_id10 , 1.0F, 1.0F, 0, 0, 1.0F);
 			}
 		});
+		
 		button11.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View v) {
 				// TODO Auto-generated method stub
-				sp9.play(sound_id11 , 1.0F, 1.0F, 0, 0, 1.0F);
+				sp11.play(sound_id11 , 1.0F, 1.0F, 0, 0, 1.0F);
+			}
+		});
+		
+		button12.setOnClickListener(new View.OnClickListener() {
+			@Override
+			public void onClick(View v) {
+				// TODO Auto-generated method stub
+				sp12.play(sound_id12 , 1.0F, 1.0F, 0, 0, 1.0F);
 			}
 		});
 		
